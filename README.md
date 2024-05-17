@@ -77,8 +77,8 @@ Automatically act on your data and communicate using third-party services like T
 
 #include <ThingSpeak.h>;
 
-const char* ssid = "Preethi"; //Your Network SSID
-const char* password = "02082004"; //Your Network Password
+const char* ssid = "Sri"; //Your Network SSID
+const char* password = "sri88888"; //Your Network Password
 
 int val;
 #include <DHT.h>
